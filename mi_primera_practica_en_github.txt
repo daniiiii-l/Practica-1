@@ -1,0 +1,9 @@
+# Mi primera práctica en GitHub
+
+Este es mi primer archivo creado en un repositorio público en GitHub.  
+Estoy aprendiendo a usar ramas, agregar archivos y gestionar versiones.
+
+Nombre: ESTEFANY DANIELA DE LA CRUZ BAEZ  
+Matrícula: 121-6537  
+Fecha: 24/06/2025  
+Ramas creadas: main y dev
